@@ -1,0 +1,1 @@
+.checkbox{align-items:center;display:inline-flex;padding:0 3px;-webkit-user-select:none;-moz-user-select:none;user-select:none}.checkbox.checked{color:#d7dada}.checkbox:not(.checked){color:#191b1b}.checkbox.disabled{border-color:#191b1b;border-style:dashed;color:#191b1b;cursor:default}.checkbox .checkmark{vertical-align:middle}
