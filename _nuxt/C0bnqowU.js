@@ -1,0 +1,1 @@
+import{e as a,o as c,c as o,n as s}from"./CrL4dOpj.js";const d=a({__name:"AppCheckbox",props:{checked:{type:Boolean,default:!1},disabled:{type:Boolean,default:!1}},setup(e){return(l,n)=>(c(),o("div",{class:s(["checkbox",{disabled:e.disabled,checked:e.checked}])}," ✓ ",2))}});export{d as _};
