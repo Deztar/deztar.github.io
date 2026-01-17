@@ -1,0 +1,1 @@
+const s=r=>JSON.parse(JSON.stringify(r)),e=(r,t)=>{const n={};for(const o of r)n[o[t]]=o;return n},c=r=>Math.round(r*100)/100,a=r=>Math.round(r*10)/10,u=r=>{if(!r)return!1;for(const t in r)return!0;return!1};export{a,e as b,s as c,u as i,c as r};
